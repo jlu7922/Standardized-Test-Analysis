@@ -111,13 +111,13 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 - Presentation slides
 - Any other necessary files (images, etc.)
 
-**Please fork the project, download or clone to your local machine, and submit a link in the [Google Classroom](https://classroom.google.com/u/1/c/NTA0NDQ0MDk0OTcx) assignment.**
+**Please fork the project, download or clone to your local machine, and submit a link in the [Google Classroom](https://classroom.google.com/u/1/w/NTE3MzcxMzQwNDI1/t/all) assignment.**
 
 ---
 
 ### Presentation Structure
 
-**You must be ready to present your findings by the start of class on Friday, Dec. 9.**
+**You must be ready to present your findings by the start of class on Friday, March 31.**
 
 - **Must be within time limit - not more than 5 minutes.**
 - Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
