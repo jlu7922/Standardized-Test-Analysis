@@ -101,7 +101,7 @@ Here's a link on [how to give a good lightning talk](https://www.semrush.com/blo
 
 ### Submission
 
-**Materials must be submitted on Friday, Dec. 9.**
+**Materials must be submitted on Friday, March 31.**
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
